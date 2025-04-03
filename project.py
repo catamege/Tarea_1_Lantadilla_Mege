@@ -6,7 +6,7 @@ print(
 print(
     "paso dos: hacer un commit con el comentario del cambio, puede ser wip "
     "(work in progress), feat (nueva caracteristica que hice), fix (arregle "
-    'algo de la otra. poner git commit -m"feat:poto" en el terminar'
+    'algo de la otra. poner git commit -m"feat:xdxd" en el terminar'
 )
 print("paso tres: publicar ultima version con git push")
 
